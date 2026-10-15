@@ -13,4 +13,4 @@ def detect_url(url):
     }
 result = detect_url("https://google.com")
 
-print(result);
+print(result)
